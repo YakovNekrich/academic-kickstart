@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-# Biography
+## Biography
 
 I am a Research Assistant Professor at the University of Waterloo.  My research interests include data structures, especially geometric and compressed data structures, and algorithms on sequences.  
 
